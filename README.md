@@ -2,6 +2,10 @@
 
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnianton%2Fazstorage-to-s3%2Fmain%2Fdeploy%2Fazure.sub.deploy.json)
 
+https://raw.githubusercontent.com/drdrmole/azstorage-to-s3/main/deploy/azure.sub.deploy.json
+
+[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdrdrmole%2Fazstorage-to-s3%2Fmain%2Fdeploy%2Fazure.sub.deploy.json)
+
 This is a solution based on Azure Functions to transfer Azure Blob Storage files to AWS S3.
 
 The architecture of the solution is as depicted on the following diagram:
